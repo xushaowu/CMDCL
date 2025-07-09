@@ -7,13 +7,13 @@ This is the official repository for our ACM MM '25 paper "Cross-Modal Dual-Causa
 We propose a Cross-Modal Dual-Causal Learning (CMDCL) framework for long-term action recognition.
 
 ![Causal Graph Evolution](doc/fig3_causal_graph_evolution.pdf)
-*Figure 1: Evolution of our causal graph for modeling long-term temporal dependencies*
+
 
 ## Framework
 
 Our framework :
 ![Framework Overview](doc/fig4_overview_framework_w_part.pdf)
-*Figure 2: Overall architecture of our CMDCL framework*
+
 
 ## Installation
 

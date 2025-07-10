@@ -1,6 +1,6 @@
 # CMDCL: Cross-Modal Dual-Causal Learning for Long-Term Action Recognition
 
-This is the official repository for our ACM MM '25 paper "Cross-Modal Dual-Causal Learning for Long-Term Action Recognition".
+This is the official repository for our ACM MM '25 paper "Cross-Modal Dual-Causal Learning for Long-Term Action Recognition". [pdf:http://arxiv.org/abs/2507.06603]
 
 ## Overview
 

@@ -1,33 +1,25 @@
-# CMDCL: Cross-Modal Dual-Causal Learning for Long-Term Action Recognition
+# Cross-Modal Dual-Causal Learning for Long-Term Action Recognition (ACM MM '25)
 
-This is the official repository for our ACM MM '25 paper "Cross-Modal Dual-Causal Learning for Long-Term Action Recognition". [pdf](http://arxiv.org/abs/2507.06603)
+This repository is intended to share the official code for our ACM MM '25 paper ([pdf](http://arxiv.org/abs/2507.06603)): 
 
-## Overview
+> **Cross-Modal Dual-Causal Learning for Long-Term Action Recognition**
 
-We propose a Cross-Modal Dual-Causal Learning (CMDCL) framework for long-term action recognition.
+## Code Release Plan
 
-![Causal Graph Evolution](doc/fig3_causal_graph_evolution.pdf)
+Due to the authors' course commitments, we are currently unable to upload the full implementation in a timely manner.  
+We will complete the code submission **no later than June 28, 2026**.
 
+## Status
 
-## Framework
-
-Our framework :
-![Framework Overview](doc/fig4_overview_framework_w_part.pdf)
-
-
-## Installation
-
-The code will be released soon. Please check back for updates.
-
-## Usage
-
-
-## Citation
-
+- [ ] Code cleanup & refactoring  
+- [ ] Training / evaluation scripts  
+- [ ] Preprocessing pipeline  
+- [ ] Documentation and usage examples  
 
 ## Contact
 
-For questions, please open an issue in this repository.
+If you have questions or would like to discuss the work, please open an Issue in this repository.
+
 
 ## License
 

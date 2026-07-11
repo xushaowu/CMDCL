@@ -7,7 +7,7 @@ This repository is intended to share the official code for our ACM MM '25 paper 
 ## Code Release Plan
 
 Due to the authors' course commitments, we are currently unable to upload the full implementation in a timely manner.  
-We will complete the code submission **no later than July 28, 2026**.
+We will complete the code submission **no later than August 28, 2026**.
 
 ## Status
 
